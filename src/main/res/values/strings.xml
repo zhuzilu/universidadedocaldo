@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Universidadedocaldo</string>
+
+    <string-array name="quotes">
+        <item>Universidade do caldo</item>
+        <item>Voy con el alfa</item>
+        <item>E un collón de mico</item>
+        <item>Vamos que nos vamos coche de Carballo</item>
+        <item>Más lento que del Bosque</item>
+        <item>Anda anda que no mandas nada</item>
+        <item>¡Hay café! Hay que afeitarse</item>
+        <item>Eso es más viejo que mami blue</item>
+        <item>A tonti la burri</item>
+        <item>Gelipollas</item>
+        <item>Caña aquí</item>
+        <item>Alaaa outra vaca no maizo</item>
+        <item>Esto está más sucio que el palo de un gallinero</item>
+    </string-array>
+
+    <string-array name="authors">
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+        <item>Jorge</item>
+    </string-array>
+
+</resources>
